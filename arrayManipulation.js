@@ -40,4 +40,4 @@ console.log(formattedStrings);
 
 
 
-export {processArray, formatArrayStrings};
+export {processArray, formatArrayStrings, newArray};
