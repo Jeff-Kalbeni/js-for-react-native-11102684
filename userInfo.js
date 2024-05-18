@@ -1,4 +1,4 @@
-import { processArray, formatArrayStrings }  from "./arrayManipulation";
+import { processArray, formatArrayStrings, newArray }  from "./arrayManipulation";
 
 
 function createUserProfiles(names, modifiedNames) {
